@@ -1,6 +1,8 @@
 # fire-extinguisher-client
 
-## Build Setup
+## A Fire extinguisher rent application made with Nuxt.JS
+
+The goal of this project was to understand the basics of Nuxt.JS
 
 ```bash
 # install dependencies
@@ -8,13 +10,13 @@ $ yarn install
 
 # serve with hot reload at localhost:3000
 $ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Project made following [this tutorial](https://www.youtube.com/watch?v=Wdmi4k7sFzU&ab_channel=LaithHarb).
+
+
+
+### Home page
+![Alt Text](/screenshots/hero.png)
+### Fire Extinguisher list
+![Alt Text](/screenshots/fire-extingueshers-list.png)
