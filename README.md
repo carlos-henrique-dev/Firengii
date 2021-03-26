@@ -2,7 +2,8 @@
 
 ## A Fire extinguisher rent application made with Nuxt.JS
 
-The goal of this project was to understand the basics of Nuxt.JS
+The goal of this project was to understand the basics of Nuxt.JS <br>
+This project covers some features like plugins, vuex, and some others stuff
 
 ```bash
 # install dependencies
